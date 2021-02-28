@@ -19,7 +19,7 @@
       <label for="last" class="form-label">Last Name</label>
       <input type="text" name="last" class="form-control" value="<?php echo $row['last'] ?>"><br>
       <label for="email" class="form-label">Email</label>
-      <input type="email" name="email" class="form-control" value="<?php echo $row['email'] ?>"><br>
+      <input type="" name="email" class="form-control" value="<?php echo $row['email'] ?>"><br>
       <button class="btn btn-success" type="submit">Update Employee</button>
     </form>
   </div>
