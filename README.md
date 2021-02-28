@@ -1,6 +1,6 @@
 # Simple PHP CRUD
 
-<img src="image-example/php_crud.png" width="700">
+<img src="image-example/php_crud.png">
 
 I wanted to start learning basic PHP, so I made this simple employee management application. I learned a lot about PHP fundamentals like basic syntax, super-global variables and GET / POST.
 
