@@ -1,0 +1,13 @@
+/* For stick footer */
+
+html,
+body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+footer {
+  text-align: center;
+}
